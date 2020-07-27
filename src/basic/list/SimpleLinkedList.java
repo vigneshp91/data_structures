@@ -1,4 +1,4 @@
-package list;
+package basic.list;
 
 public class SimpleLinkedList {
 

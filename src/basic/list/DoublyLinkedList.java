@@ -1,4 +1,4 @@
-package list;
+package basic.list;
 
 
 class DLinkedList {
